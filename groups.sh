@@ -1,5 +1,5 @@
 Group_01
-Group_02
+Group_02 Isabelle Satti, Natalia Weiubergen Acevedo, Sumin Chun, Daphne Chou, Wenting Zhou
 Group_03
 Group_04
 Group_05
